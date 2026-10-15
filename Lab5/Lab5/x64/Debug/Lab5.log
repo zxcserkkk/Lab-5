@@ -1,0 +1,5 @@
+﻿  Task1.c
+C:\Users\koren\source\repos\Lab5\Task1.c(19,5): warning C4013: task1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\koren\source\repos\Lab5\Task1.c(20,5): warning C4013: task2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\koren\source\repos\Lab5\Task1.c(21,5): warning C4013: task3: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab5.vcxproj -> C:\Users\koren\source\repos\Lab5\x64\Debug\Lab5.exe
