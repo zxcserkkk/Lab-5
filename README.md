@@ -27,7 +27,7 @@ f = pow(y + cbrt(x - 1), 1.0 / 4) / (fabs(x - y) * (pow(sin(z), 2) + tan(z)));
 #include <stdlib.h>
 #include <locale.h>
 
-int main(void)
+int main()
 {
     setlocale(LC_ALL, ".UTF-8");
 
